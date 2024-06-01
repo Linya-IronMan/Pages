@@ -1,5 +1,11 @@
 **/node_modules/** 
 **/cache/** 
+
+
+# local
+
+.vscode/**
+
 # Logs
 logs
 *.log
