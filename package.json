@@ -1,0 +1,16 @@
+{
+	"name": "Pages",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/Linya-IronMan/Pages.git",
+	"author": "陈定涛 <dingtaochen@zhongkehuizhou.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"vitepress": "^1.2.2"
+	},
+	"scripts": {
+		"dev": "vitepress dev docs",
+		"build": "vitepress build docs",
+		"serve": "vitepress serve docs"
+	}
+}
