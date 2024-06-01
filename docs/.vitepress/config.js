@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Hello VitePress",
-	description: "Just playing around.",
-	base: "./",
+	title: "每天都要得到",
+	description: "文章记录",
+	base: "/",
 };
